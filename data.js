@@ -609,4 +609,20 @@ module.exports = [
       'Chrome Extension',
     ]
   },
+  {
+    name: 'Joshua Chinwendu',
+    description: 'Full Stack Developer. Love working with Python Django framwork.',
+    url: 'https://joshualine.hashnode.dev',
+    twitter: '@joshchinwendu',
+    tags: [
+      'JavaScript',
+      'Python',
+      'Node',
+      'React',
+      'Django',
+      'API',
+      'HTML',
+      'CSS',
+    ]
+  },
 ];
